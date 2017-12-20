@@ -59,6 +59,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  text-align: center;
 }
 .note-editor button {
   width: 100px;
